@@ -47,7 +47,7 @@ make build
 
 ## Contributing
 
-<a href="https://github.com/stateless-minds/cyber-hike/issues">Open an issue</a>
+<a href="https://github.com/stateless-minds/the-commons-reclaim-earth/issues">Open an issue</a>
 
 ## License
 
